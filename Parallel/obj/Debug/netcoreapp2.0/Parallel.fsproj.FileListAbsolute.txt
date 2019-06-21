@@ -1,0 +1,8 @@
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\bin\Debug\netcoreapp2.0\Parallel.deps.json
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\bin\Debug\netcoreapp2.0\Parallel.dll
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\bin\Debug\netcoreapp2.0\Parallel.pdb
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\obj\Debug\netcoreapp2.0\Parallel.fsprojAssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\obj\Debug\netcoreapp2.0\Parallel.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\obj\Debug\netcoreapp2.0\Parallel.AssemblyInfo.fs
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\obj\Debug\netcoreapp2.0\Parallel.dll
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\obj\Debug\netcoreapp2.0\Parallel.pdb
