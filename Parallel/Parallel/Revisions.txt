@@ -1,0 +1,27 @@
+﻿2019-11-18
+    -- renamed primary namespace to Rogz
+    -- added [<Sealed; AbstractClass>] attribute to static classes (per guidelines)
+    -- updated from .netcore2.2 to .netstandard2.1
+    -- added better XML tags (eg <summary>)
+    -- changed module (namespace Rogz.Parallel.Async).Traverse to module Rogz.Parallel.Traverse
+
+2019-08-03
+	-- Composition => removed all operators & some functions
+	-- renamed Async.Choice to Async.Pick becaus Async.Choice is already a method
+
+2019-07-05
+    -- re-renamed forA to traverse & seqA to sequence
+    -- changed all uses of uint32 to int (to prevent possible overflows on `int uint32.maxvalue`)
+    -- added map3 and bind3 to Composition & added `AsyncOperators` module
+
+2019-06-23
+    -- renamed traverse and sequence to forA and seqA & private procCount to setDegree
+
+2019-06-22
+    -- traverse and sequence functions added to Traverse module
+
+2019-06-21
+    -- added Common module and various functions and type synonyms
+        -- Enrich.WithGuard needs work \ currently the operations are not run in parallel
+    -- added Composition module with monad/apply/functor/comonad instances
+    ?? added Traverse module \ it is NOT lazy as is & splitInto is always faster than chunkBy it seems

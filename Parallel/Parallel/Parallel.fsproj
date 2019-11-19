@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Authors>ptr</Authors>
+    <Description>Various different types of parallelism.</Description>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Revisions.txt" />
+    <Compile Include="Async\Common.fs" />
+    <Compile Include="Async\Composition.fs" />
+    <Compile Include="Async\Traverse.fs" />
+    <Compile Include="PSeq.fs" />
+  </ItemGroup>
+
+</Project>

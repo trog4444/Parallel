@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel.fsproj": {}
+    "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\Parallel.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel.fsproj": {
+    "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\Parallel.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel.fsproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\Parallel.fsproj",
         "projectName": "Parallel",
-        "projectPath": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel.fsproj",
+        "projectPath": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\Parallel.fsproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,37 +21,42 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.0": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         }
       },
       "frameworks": {
-        "netcoreapp2.0": {
+        "netstandard2.1": {
           "dependencies": {
             "FSharp.Core": {
               "target": "Package",
-              "version": "[4.6.2, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.0, )",
-              "autoReferenced": true
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

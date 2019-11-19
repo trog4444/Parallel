@@ -1,0 +1,8 @@
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\bin\Release\netstandard2.1\Parallel.deps.json
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\bin\Release\netstandard2.1\Parallel.dll
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\bin\Release\netstandard2.1\Parallel.pdb
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\obj\Release\netstandard2.1\Parallel.fsprojAssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\obj\Release\netstandard2.1\Parallel.AssemblyInfoInputs.cache
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\obj\Release\netstandard2.1\Parallel.AssemblyInfo.fs
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\obj\Release\netstandard2.1\Parallel.dll
+C:\Users\Tyler\Documents\GitHub\Parallel\Parallel\Parallel\obj\Release\netstandard2.1\Parallel.pdb

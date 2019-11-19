@@ -7,8 +7,9 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("Parallel")>]
-[<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("ptr")>]
+[<assembly: System.Reflection.AssemblyConfigurationAttribute("Release")>]
+[<assembly: System.Reflection.AssemblyDescriptionAttribute("Various different types of parallelism.")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
 [<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Parallel")>]
