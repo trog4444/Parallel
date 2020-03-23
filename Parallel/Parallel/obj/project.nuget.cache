@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YuTyr+tFz19GlKTsQHLByE9X983E7IHwLgj2kOETsYzpXCK7bPt8sUGUxUC6yPmxwqoqvdC7LWEk1n7fDNxa9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tyler\\Documents\\GitHub\\Parallel\\Parallel\\Parallel\\Parallel.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tyler\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

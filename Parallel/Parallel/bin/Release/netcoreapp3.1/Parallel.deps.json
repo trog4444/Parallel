@@ -1,13 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETStandard,Version=v2.1/",
+    "name": ".NETCoreApp,Version=v3.1",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETStandard,Version=v2.1": {},
-    ".NETStandard,Version=v2.1/": {
-      "Parallel/1.0.0": {
+    ".NETCoreApp,Version=v3.1": {
+      "Parallel/1.2.0": {
         "dependencies": {
           "FSharp.Core": "4.7.0"
         },
@@ -67,7 +66,7 @@
     }
   },
   "libraries": {
-    "Parallel/1.0.0": {
+    "Parallel/1.2.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

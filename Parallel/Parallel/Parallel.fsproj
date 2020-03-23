@@ -1,9 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
-    <Authors>ptr</Authors>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>rogz</Authors>
     <Description>Various different types of parallelism.</Description>
+    <Version>1.2.0</Version>
+    <Company>rogz</Company>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">

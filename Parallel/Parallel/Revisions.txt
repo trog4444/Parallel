@@ -1,4 +1,13 @@
-﻿2019-11-18
+﻿!! To Do:
+    -- add exceptions to PSeq for null inputs.
+
+*** commit   >   1.2.0.0
+2019-12-18
+    -- changed PSeq to remove all calls to toPSeq out of functions
+        -- and have them take pseq's instead.
+
+*** commit
+2019-11-18
     -- renamed primary namespace to Rogz
     -- added [<Sealed; AbstractClass>] attribute to static classes (per guidelines)
     -- updated from .netcore2.2 to .netstandard2.1
